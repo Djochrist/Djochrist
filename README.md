@@ -5,7 +5,7 @@
 🗄️ SQL & PostgreSQL  
 📍 Lubumbashi, République Démocratique du Congo
 
-Passionné par la **programmation**, les **algorithmes** et la **construction de solutions logicielles solides**.  
+Passionné par la **construction de solutions logicielles solides**.  
 J’aime apprendre en construisant et partager mes connaissances à travers des projets open-source.
 
 ---

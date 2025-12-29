@@ -2,7 +2,7 @@
 
 #  Salut, je suis Djochrist K 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Passionn%C3%A9+par+la+construction+de+solutions+logicielles+solides;J'aime+apprendre+en+construisant+et+partager+mes+connaissances" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=D%C3%A9veloppeur+Backend+Python;Passionn%C3%A9+par+les+solutions+logicielles;Apprendre+en+construisant" alt="Typing SVG" />
 
 ---
 

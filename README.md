@@ -35,22 +35,7 @@
 
 ---
 
-## **Compétences Techniques**
 
-### **Langages de Programmation**
-- **Python**
-- **SQL**
-
-### **Bases de Données**
-- **PostgreSQL**
-- **Requêtes avancées** : JOIN, GROUP BY, indexes, optimisation
-
-### **Frameworks & Outils**
-- **Flask**
-- **Git & GitHub**
-- **GitHub Actions**
-
----
 
 ## **Statistiques GitHub**
 
